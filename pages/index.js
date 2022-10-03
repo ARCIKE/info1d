@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome !" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         IP Minecraft <code>mc.info1d.gq</code>
         </p>
       </main>
     </div>
